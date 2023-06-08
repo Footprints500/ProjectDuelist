@@ -8,6 +8,7 @@ module.exports = function (app, db) {
       res.redirect("lobbyError");
       return;
     }
+// test comment
 
     // set opponent
     const you = null;
